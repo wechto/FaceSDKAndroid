@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\BaiduFaceSDKAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BaiduFaceSDKAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dd768a9589d710d32309dc3c2ba485019fc13481\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\BaiduFaceSDKAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a01919944067decc38d2c9c5bbda4fc7029917ff">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BaiduFaceSDKAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_12bdfe8701da5502aecf90a2b0cec1fb279d45f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\BaiduFaceSDKAndroid\faceplatform-ui\build\intermediates\bundles\default\libs\ast.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="50ba94046dc68d575f526277b4ebf4c17243006b">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BaiduFaceSDKAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\8\ast_42dd29605335c04c0a92f2ef4ab218810d7169d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\BaiduFaceSDKAndroid\app\libs\bdasr_V3_20180320_9066860.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="24f485559295453a1bca75bb4b1d1a8448defd70">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BaiduFaceSDKAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\bdasr_V3_20180320_9066860_98f634b5a9d4c102396e3e9f81bac37186242610\classes.dex" />
+    </item>
+
+</items>

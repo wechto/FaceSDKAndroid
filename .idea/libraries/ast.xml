@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ast">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/faceplatform-ui/libs/ast.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
